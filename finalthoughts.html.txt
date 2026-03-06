@@ -1,0 +1,58 @@
+<head>
+     <div style="background-color: #131313;">This is a display border top background color</div>
+     <div class="logo-container">	
+      <img src="thoughtslogofinal.gif class="center-logo" alt="Thoughts Logo">
+     </div>
+     <style>
+        body {
+            height: 200vh;
+            margin: 0;
+            padding: 0;
+            font-family: Serif;
+        }
+
+        body::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        body::-webkit-scrollbar-thumb {
+            background-color: #4a4a4a;
+            border-radius: 5px;
+        }
+
+        body::-webkit-scrollbar-track {
+            background-color: #f1f1f1;
+        }
+      </style>
+</head>
+<body>
+     <div class="top-bar">
+         <a class="active" href="index.html">Home</a>
+     </div>
+     <main>
+         <section>
+             <h4 style="text-align: right;">March Muck</h4>    
+             <p>What is she doing? She has lost and gain value of herself. The mornings are bland, the afternoons are filled with hope for the future and the evenings are dim. She is enjoying finishing a project. The thoughts of her future, an adjustment, she will have to clarify while being grateful for this good opportunity. So, who is this woman? A person that dislikes the false displays of her character and images, illegal. Her words, Hidden, she wakes up everyday, bills she has to pay, and a mind of importance as a Mastermind.</p>
+         </section>
+
+         <section>
+             <h5 style="text-align: right;">April Muck</h5>
+             <p>After January, February and March mucks, April, the month of good tiding is coming. February results will be given, were you reading? Did she get all of her mucks out yet? No? You might think this person needs help or do you know she needs help? What is help? Help makes it easier or possible for someone to do something by offering one's services or resources. Is she smart? The project is not help, but it is an advancement to help oneself. Is she worth it? <strong>She will find out with the Next Chapter Project program by April 15, 2026.</strong></p> 
+         </section>
+         
+         <section>
+             <h6 style="text-align: center;">Muck Thoughts</h6> 
+             <p class="center-italic">Life is Good? Back into Motion? What is she doing? Shenique is more than a woman. She is a mother, she is a writer, she is an artist, she is an inventor, and a business person. Her life is bad. Her life is motionless. She wants to move, do the commas, end the family matters, and bring her Mastermind back.</p>
+         </section>
+     </main>
+
+     <footer>
+      <div class="footer container">
+        <h4>SheniqueNextChapter</h4>
+        <p>2026 Thoughts Website.</p>
+      </div>
+     </footer>
+</body>
+</html>
+
+      

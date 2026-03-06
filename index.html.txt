@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+      <meta charset="UTF-8">
+      <meta name="Thoughts" content="Shenique Year Thoughts to Next Chapter entry">
+      <title>SheniqueNextChapter</title>
+        <div style="background-color: #131313;">This is a div title with a background color</div>
+      <div class="logo-container">	
+	  <img src="thoughtslogofinal.gif class="center-logo" alt="Thoughts Logo">
+      </div>
+      <style>
+        body {
+            height: 200vh;
+            margin: 0;
+            padding: 0;
+            font-family: Serif;
+        }
+
+        body::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        body::-webkit-scrollbar-thumb {
+            background-color: #4a4a4a;
+            border-radius: 5px;
+        }
+
+        body::-webkit-scrollbar-track {
+            background-color: #f1f1f1;
+        }
+      </style>
+</head>
+<body>
+      <header id="navbar" class="navbar">
+        <a href="index.html">Home</a>
+        <a href="finalthoughts.html">Final Thoughts</a>
+      </header> 
+      <main>
+         <section>
+             <h1 style="text-align: center;">Muck Told</h1> 
+             <p class="center-italic">To trust, to support, to uplift, to be educated for positive outcomes. A broken system in the United States of America to the rightful. Mucky and unclear. Is this suppose to continue in a cycle? Shenique thoughts.</p>
+         </section>
+   
+         <section>
+             <h2 style="text-align: right;">January Muck</h2> 
+             <p>Life is Good? The beginning of the year for a person that is smart with unjust marks, she has to pause her life again. Is this smart person suppose to be listed as an unjust person? False continues to follow her and smart people at truthful. A woman that was positioned for good outcomes has to figure out how to finish important matters to her, after a long period of listening and working with good and bad people. Her thoughts are important. She is grateful to continue business with a plan to succeed. Her actions, Future the Artist, I need commas.</p>
+         </section>
+
+         <section>
+             <h3 style="text-align: right;">February Muck</h3> 
+             <p>Back into Motion? Great news, the woman of the decade, past and beyond, has positioned herself once again. Despite the negative events that were aimed to block her, she made her Gold Merit Award valuable again. A broken system with smart people built a team for a good outcome to clear the mucky connections of a rightful alignment for the country. Did the alignment happen right? Was everyone reading, listening or working? Thoughts? She continues with an opportunity that can help a person in her situation, at yes or no? She attended an online event and applied. Her edited lifestyle, Drake, I have real events happening with my family to.</p>
+         </section>
+		
+         <section>	
+             <div class= "center-container">
+             <a href="finalthoughts.html" class="centered-link">Final Thoughts?</a>
+             </div>
+         </section>
+
+         <section>
+         <audio id="background-music" autoplay>
+             <source src="thoughtswelcome.mp3" type="audio/mpeg">
+             Your browser does not support the audio element.
+         </audio>
+      <style>
+         #background-music {
+             display: none; 
+         }
+      </style>
+         </section>
+      </main>
+
+      <footer>
+      <div class="footer container">
+        <h4>SheniqueNextChapter</h4>
+        <p>2026 Thoughts Website.</p>
+      </div>
+      </footer>
+</body>
+

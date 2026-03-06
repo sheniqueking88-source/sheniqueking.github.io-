@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Check the browser console for the output</title>
+</head> 
+<body> 
+    <script>
+        console.log(Thoughts);
+        console.log(1772773800575);
+    </script>
+</body>
+</html>    
